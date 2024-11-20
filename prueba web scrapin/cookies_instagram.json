@@ -1,0 +1,20 @@
+[
+    {
+        "domain": ".instagram.com",
+        "expiry": 1763570551,
+        "httpOnly": false,
+        "name": "csrftoken",
+        "path": "/",
+        "secure": true,
+        "value": "yLqciDJULRm6H6AG6SQ8ufSNdw1OyeFh"
+    },
+    {
+        "domain": ".instagram.com",
+        "expiry": 1763659147,
+        "httpOnly": true,
+        "name": "sessionid",
+        "path": "/",
+        "secure": true,
+        "value": "29456626299%3AMNKoGWkMQSShNE%3A2%3AAYfWHYWxS5aGHSV11wm3DM2d4X2vcwRoxA3BvVvx-Q"
+    }
+]
